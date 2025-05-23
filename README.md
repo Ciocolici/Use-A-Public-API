@@ -14,10 +14,10 @@ Make sure you have Node.js installed. Then follow these steps in your terminal (
 - Navigate to the project folder
 `cd "path-to-project-folder"`
 
-- 2. Install dependencies
+- Install dependencies
 `npm install`
 
-- 3. Run the server
+- Run the server
 `node index.js`
 
 Now open your browser and go to:
