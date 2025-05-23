@@ -1,16 +1,28 @@
-# Capstone Project 4: Use A Public API
-A project made while doing "[The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)" Udemy Course. 
+# Use A Public API
+A project made while doing "[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)" Udemy Course, as part of my internship at Terrera AG.
 
-It contains a website using the Express/Node.js platform, with the Axios HTTP client, that integrates a public API ([Jikan](https://jikan.moe/)), EJS as the templating language and Bootstrap as the CSS Framework. It uses GET requests to choose a random anime character from the Anime written by the user.
-Being a Node.js project, to be run the project requires a server. You can run it locally with NPM in Visual Studio Code using the terminal. 
+This project demonstrates how to consume and integrate a public API using the Node.js runtime environment with Express.js, Axios for HTTP requests, EJS as a templating engine, and Bootstrap for responsive UI styling.
 
-*To see the page you can access this [link](https://use-a-public-api.onrender.com/).*
+🎌 Fetches anime data from the Jikan API
+🎲 Returns a random anime character from a series entered by the user
 
-Make sure you have node.js installed, open the project's folder with Visual Studio code. Launch its terminal and write the following:
-1. cd "path to the project's folder"
-2. npm i
-3. node index.js
-   
-The Web Application can now be accessed with http://localhost:3000/
+🚀 Live Preview
+*Check out the live version [here](https://use-a-public-api.onrender.com/).*
+
+🛠️ How to Run Locally
+Make sure you have Node.js installed. Then follow these steps in your terminal (e.g., Visual Studio Code):
+- Navigate to the project folder
+`cd "path-to-project-folder"`
+
+- 2. Install dependencies
+`npm install`
+
+- 3. Run the server
+`node index.js`
+
+Now open your browser and go to:
+📍 `http://localhost:3000/`
+
+This project was built independently by me as part of a learning module. The course provided only a high-level overview of the intended functionality. The coding, design, and logic were developed by me from scratch.
 
 * The Logo PNG is AI created using [Microsoft's Copilot](https://copilot.microsoft.com/).
