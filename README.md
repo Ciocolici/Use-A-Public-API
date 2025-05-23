@@ -25,4 +25,4 @@ Now open your browser and go to:
 
 This project was built independently by me as part of a learning module. The course provided only a high-level overview of the intended functionality. The coding, design, and logic were developed by me from scratch.
 
-* The Logo PNG is AI created using [Microsoft's Copilot](https://copilot.microsoft.com/).*
+*The Logo PNG is AI created using [Microsoft's Copilot](https://copilot.microsoft.com/).*
