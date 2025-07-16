@@ -1,5 +1,5 @@
 # Use A Public API
-A project made while doing "[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)" Udemy Course, as part of my internship at Terrera AG.
+A project made while doing "[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)" Udemy Course, completed as a self-study exercise during my internship period (unrelated to company work).
 
 This project demonstrates how to consume and integrate a public API using the Node.js runtime environment with Express.js, Axios for HTTP requests, EJS as a templating engine, and Bootstrap for responsive UI styling.
 
